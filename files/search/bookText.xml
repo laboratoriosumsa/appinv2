@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="30"><page Index="1"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page><page Index="2"/><page Index="3"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="4"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+                                                  BOTON
+
+                                                                              Botón con capacidad para detectar clics. Se pueden
+                                                     cambiar muchos aspectos de su apariencia, así como si se puede hacer clic
+                                                     en el (activado). Sus propiedades se pueden cambiar en el diseñador o en
+                                                     el editor de bloques.
+
+
+                                                     CASILLA DE
+                                                                                          Generan un evento cuando el usuario lo toca. Hay
+                                                     muchas propiedades que afectan su apariencia que se pueden configurar
+                                                     en el diseñador o en el editor de bloques.
+
+
+
+
+                                                 SELECTOR DE FECHA
+                                                                                                  Abre un cuadro de dialogo emergente que
+                                                    permite al usuario seleccionar una fecha en el calendario gregoriano.
+
+
+
+
+                                                                                     La imagen que se mostrara y otros aspectos de la
+                                                  IMAGEN
+                                                    apariencia se puede especificar en el diseñador o en el editor de bloques.]]></page><page Index="5"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+                                                    ETIQUETA
+                                                                     Las etiquetas son componentes que se utilizan para mostrar
+
+                                                                    texto.
+
+
+                                                     SELECTOR DE LISTA
+                                                                                                    Se muestra una lista de textos para que el
+                                                      usuario elija entre ellos. los textos se pueden especificar a través del
+                                                      diseñador o el editor de bloques.
+
+
+
+
+                                                    VISOR DE LISTA
+                                                                                               Este es un componente visible que permite
+                                                      colocar una lista de elementos de texto en su pantalla para mostrar. La lista
+                                                      se puede establecer usando lo propiedad elements from string o usando el
+                                                      bloque elements en el editor de bloques.
+
+                                                    NOTIFICADOR
+
+                                                                                   El componente Notificador muestra mensajes de alerta y
+                                                      crea entradas de registro de Android a través de una variedad de métodos.]]></page><page Index="6"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+                                                     CAMPO DE CONTRASEÑA
+                                                                                                                Se ingresa contraseña en un componente
+
+                                                           de cuadro de texto de contraseña, que oculta el texto que se ha escrito en el.
+
+
+
+                                                      DESLIZADOR
+                                                                                          Barra de progreso que agrega un pulgar que se puede
+
+                                                          arrastrar. Puede tocar el pulgar y arrastrar hacia la izquierda o hacia la
+                                                          derecha de para establecer la posición del pulgar del control deslizante.
+
+
+                                                      DESPLEGABLE
+                                                                                      Muestra un diálogo con una lista de elementos. Estos
+                                                          elementos se pueden configurar en el Diseñador o en el Editor de bloques
+                                                          configurando la propiedad ElementsFromString en una lista de valores
+
+                                                          separados por comas (por ejemplo, opción 1, opción 2, opción 3).
+
+
+                                                                 SWICH
+                                                                                             Pueden detectar los toques del usuario y pueden
+                                                                           INGENIERIA DE METODOS
+                                                           cambiar su estado booleano en respuesta. Son idénticos a los
+                                                           CheckBoxes excepto en apariencia.]]></page><page Index="7"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="8"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page><page Index="9"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="10"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+                                                                                                                                        GRABADOR
+
+                                                        Un componente para grabar un video usando la videocámara del dispositivo
+
+
+                                                                                                                                          CAMARA
+                                                        La cámara es un componente no visible
+
+
+                                                                                                                              SELECTOR DE IMGEN
+                                                        Cuando el usuario toca un ImagePicker, aparece la galería de imágenes
+                                                        del dispositivo y el usuario puede elegir una imagen.se almacenarán un máximo de 10
+                                                        imágenes
+
+                                                                                                                                      REPRODUCTOR
+                                                       Este componente es mejor para archivos de sonido largos, como canciones,
+                                                       mientras que el componente de sonido es más eficaz para archivos cortos, como efectos de
+                                                       sonido.
+
+                                                                                                                                             SONIDO
+                                                        Componente multimedia que graba audio]]></page><page Index="11"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+                                                                                                                   GRABADOR DE SONIDO
+                                                      Componente multimedia que graba audio
+
+
+
+
+                                                                                                               RECONOCIMIENTO DE VOZ
+                                                      Utilice este componente para traducir palabras y
+                                                       oraciones entre diferentes idiomas. Este componente necesita acceso a
+
+                                                      Internet. Consulte http://api.yandex.com/translate/
+
+
+                                                                                                                            TEXTO A VOZ
+                                                      Puede configurar el tono y la velocidad del habla. También
+
+                                                      Puede establecer un idioma proporcionando un código de idioma. Esto
+                                                      cambia la pronunciación de las palabras, no el idioma real que se habla.
+
+
+                                                                                                                 REPRODUCTOR DE VIDEO
+                                                      Utilice este componente para traducir palabras y
+                                                      oraciones entre diferentes idiomas.
+
+
+
+                                                                                                                              TRADUCTOR
+
+                                                       Utilice un componente speech recognizer para escuchar al                 YANDEX
+                                                       usuario hablando y convertir el sonido hablando en texto mediante la función
+                                                       de reconocimiento de voz del dispositivo.]]></page><page Index="12"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="13"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page><page Index="14"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="15"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page><page Index="16"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page><page Index="17"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="18"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+                                                                         ACELEROMETRO
+
+                                                                                                                 Componente no visible que  puede  detectar
+                                                                               sacudidas y medir la aceleración aproximadamente en tres
+                                                                                                                      2
+                                                                               dimensiones usado unidades SI  m/s .
+
+
+                                                                          LECTOR CODIGO DE BARRAS
+
+                                                                                                                                      Componente para escanear un
+                                                                                código QR y recuperar la cadena resultante.
+
+
+
+
+                                                                               BAROMETER
+
+                                                                                                                  Componente del mundo físico que puede medir
+
+                                                                                 la presión del aire ambiental si es compatible si es compatible con el
+                                                                                 hardware.
+
+
+
+                                                                                   RELOJ
+
+
+                                                                                                                   Componente no visible que proporciona el
+                                                                                instante en el tiempo mediante el reloj interno del teléfono. Puede
+                                                                                disparar un temporizador a intervalos regulares y realizar cálculos
+                                                                                de tiempo manipulaciones y conversiones.]]></page><page Index="19"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+                                                                        GYROSCOPESENSOR
+                                                                                                                   Componentes   que proporciona datos del
+                                                                             sensor de giroscopio del dispositivo
+
+
+
+
+                                                                               HYFROMETER
+                                                                                                                          Componentes del mundo físico que
+
+                                                                              puede medir la humedad relativa del aire ambiental si es compatible
+                                                                              con el hardware.
+
+
+                                                                              LIGHT SENSOR
+                                                                                                                  Componente del mundo físico que puede
+
+                                                                              medir el nivel de luz
+
+
+
+
+
+                                                                            SENSOR DE UBICACION
+                                                                                                                    No visible componente que proporciona
+                                                                              información de ubicación incluyendo latitud, longitud, altitudes ,
+
+                                                                              velocidad y dirección .(si es compatible con el celular.]]></page><page Index="20"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+                                                                         MAGNETIC FIELD SENSOR
+                                                                                                                               Componente para sensor de campo
+
+                                                                            magnético indica la fuerza absoluta del campo
+
+
+
+
+                                                                              NEAR FIELD
+                                                                                                                  Componente no visible para proporcionar
+
+                                                                             capacidades, por ahora este componente solo admite la lectura y
+                                                                             escritura de etiquetas de texto.
+
+
+
+                                                                           SENSOR DE ORIENTACION
+
+                                                                                                                                  Para determinar la orientación
+                                                                             espacial del teléfono, componente no visible que informa: giro,
+                                                                             paso, azimut
+
+
+
+                                                                                PEDOMETER
+                                                                                                                       Este componente lleva el recuento de
+                                                                             pasos usando acelerómetro, devuelve la distancia aproximada
+                                                                             recorrida en metros , el tiempo en mes.]]></page><page Index="21"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="22"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+                                                                                                                     SELECTOR DE CONTACTO
+
+
+                                                                  Un botón que, cuando se hace clic en él, nuestra una lista
+
+                                                                  de los contactos para elegir .información: nombre del contacto ,dirección,
+
+                                                                  teléfono, contactos ,nombre del archivo de contactos .
+
+                                                                                                                                  SELECTOR DE
+
+                                                                                                                                       EMAIL
+                                                                   El teléfono mostrara un menú desplegable de opciones que completan la entrada.
+
+
+
+
+                                                                                                                               LLAMADA DE TELEFONO
+
+                                                                   El componente no visible que realiza una llamada telefónica
+
+                                                                                                                      SELECTOR NUMERO DE TELEFONO
+
+                                                                    Un botón que, cuando se hace clic en él, muestra
+
+                                                                    una lista de los números de teléfono de los contactos para elegir.]]></page><page Index="23"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+                                                                                                                                   COMPARTIR
+
+
+                                                                  Componente no visible que permite compartir archivos
+                                                                  y/o mensajes entre su aplicación y otras aplicaciones instaladas en un
+                                                                  dispositivo.
+
+
+
+                                                                                                                                ENVIAR TEXTO
+
+                                                                    Una aplicación que incluye este componente recibirá mensajes
+
+                                                                    incluso cuando este en segundo plano, es decir cuando no esté en pantalla .
+
+
+
+
+
+                                                                                                                                     TWITTER
+
+                                                                    Un componente no visible que permite la comunicación con
+                                                                    twitter y tiene tod  as las operaciones disponibles. Para obtener una clave de
+                                                                    consumidor y una autorización en http://twitter.com/oauth_clients/new.]]></page><page Index="24"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="25"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+                                                                              CLOUD DB
+                                                                                                                  Componente o visible que le permite almacenar
+                                                                             datos en un servidor conectados a internet.                   .
+
+
+
+                                                                              ARCHIVO
+
+
+                                                                              Componente no visible para almacenar y recuperar archivos a partir de
+                                                                              Android 11.
+
+
+
+
+                                                                               TINYBD
+
+                                                                              Componente no visible    Espacio de nombres para almacenar datos.
+
+
+
+
+                                                                             MINIWEBDB
+
+                                                                                                           El componente se comunica con un servidor web para
+                                                                            almacenar y recuperar información. Siendo algo limitado.]]></page><page Index="26"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="27"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+                                                                                                                                          ACTIVIST ART
+                                                                         Las actividades que se pueden lanzar incluyen iniciar
+                                                                         otra aplicación apara Android buscando el archivo
+                                                                         “youngandridproyect/Project.properties”.
+
+
+
+                                                                                                                                             CLIENTE
+
+                                                                          Para conectar tu dispositivo con otros dispositivos
+                                                                          mediante bluetooth.
+
+
+                                                                                                                                            SERVIDOR
+                                                                           Componente para convertir su dispositivo en un
+
+                                                                           servidor que reciba conexiones de otras aplicaciones que utilizan el
+                                                                           bluetoothclient
+
+
+
+                                                                                                                                                SERIAL
+
+                                                                           Componente no visible que proporciona funciones para
+                                                                           solicitudes HTTP GET,POST, PUT Y DELETESE .]]></page><page Index="28"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             BLOQUES DE CONTROL]]></page><page Index="29"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            FIREBASEDB
+
+                                                                                   Se comunica con un servidor web para almacenar y recuperar
+
+                                                                                   información. Almacena un valor bajo en etiqueta.]]></page><page Index="30"><![CDATA[INGENIERIA DE MÉTODOS
+                                                                    CURSO VIRTUAL- MODULO 2]]></page></pages></Search>
